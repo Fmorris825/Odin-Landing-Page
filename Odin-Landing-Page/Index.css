@@ -64,26 +64,20 @@ ul {
 body {
     display: flex;
     flex-direction: column;
-<<<<<<< HEAD
     background-color: rgb(57, 55, 55); 
     font-family: 'Courier New', Courier, monospace;
-=======
     background-color: rgb(57, 55, 55)
->>>>>>> 715a97612185093fc550a2fc05af98aacae3fb1d
 }
 
 button {
     font-size: 28px;
     border-radius: 15px;
-<<<<<<< HEAD
     background-color: rgb(163, 34, 34);
     border-style: none;
     color: white;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 600;
-=======
->>>>>>> 715a97612185093fc550a2fc05af98aacae3fb1d
 }
 
 .Second-Section {
@@ -148,14 +142,3 @@ button {
     text-decoration: none;
     color: white;
 }
-
-.hlinks:hover {
-    background-color: darkred;
-}
-<<<<<<< HEAD
-
-.lzz:hover {
-    background-color: darkred;
-}
-=======
->>>>>>> 715a97612185093fc550a2fc05af98aacae3fb1
